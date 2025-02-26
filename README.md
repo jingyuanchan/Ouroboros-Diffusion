@@ -67,15 +67,6 @@ Ouroboros-Diffusion achieves **state-of-the-art performance** on the **VBench be
 ✅ **Motion Smoothness**  
 ✅ **Video-Text Alignment**  
 
-📈 **Human Evaluation** (MTurk Study)  
-We conducted a **human study with 50 evaluators** on **Amazon MTurk**, confirming that **Ouroboros-Diffusion outperforms all baselines** in long video generation.  
-
-| Approach       | Subject Consistency ↑ | Background Consistency ↑ | Motion Smoothness ↑ | Temporal Flickering ↓ |
-|---------------|----------------------|-------------------------|---------------------|----------------------|
-| StreamingT2V  | XX.XX%               | XX.XX%                  | XX.XX%              | XX.XX%              |
-| FIFO-Diffusion| XX.XX%               | XX.XX%                  | XX.XX%              | XX.XX%              |
-| FreeNoise     | XX.XX%               | XX.XX%                  | XX.XX%              | XX.XX%              |
-| **Ouroboros-Diffusion (Ours)** | **XX.XX%** | **XX.XX%** | **XX.XX%** | **XX.XX%** |
 
 ---
 
