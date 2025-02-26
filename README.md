@@ -6,7 +6,7 @@ This repository provides the implementation of **Ouroboros-Diffusion**, a novel 
 
 📄 **Our paper has been accepted at AAAI 2025!**  
 
-[📜 Paper (Coming Soon)](TBD) | [🔗 Project Page (Coming Soon)](TBD) | [🎥 Demo Videos (Coming Soon)](TBD)
+[📜 Paper (Arxiv)](https://arxiv.org/abs/2501.09019) | [🔗 Project Page (Coming Soon)](TBD) | [🎥 Demo Videos (Coming Soon)](TBD)
 
 ---
 
