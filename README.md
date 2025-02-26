@@ -46,12 +46,12 @@ cd Ouroboros-Diffusion
 pip install -r requirements.txt
 ```
 
-### **2️⃣ Run Demo Codes**  
-Each component has its own demo script:  
+### **2️⃣ Demo Codes**  
+Each component:  
 ```bash
-python demo_coherent_tail_latent.py  # Run Coherent Tail Latent Sampling
-python demo_sacfa.py                 # Run Subject-Aware Cross-Frame Attention
-python demo_self_recurrent.py         # Run Self-Recurrent Guidance
+demo_coherent_tail_latent.py  # Coherent Tail Latent Sampling
+demo_sacfa.py                 # Subject-Aware Cross-Frame Attention
+demo_self_recurrent.py         # Self-Recurrent Guidance
 ```
 
 ### **3️⃣ Full Pipeline (Coming Soon)**  
